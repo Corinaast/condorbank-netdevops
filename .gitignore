@@ -1,0 +1,14 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# GNS3 / ejecución local
+*.log
+*.tmp
+project-files/docker/*/root/.bash_history
+
+# Python
+__pycache__/
+*.pyc
+.venv/
